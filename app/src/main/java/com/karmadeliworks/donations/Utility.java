@@ -1,1 +1,1 @@
-package com.karmadeliworks.donations;import android.app.Activity;public class Utility extends Activity {     static int payPalReqCode = 7171;}
+package com.karmadeliworks.donations;public class Utility {     static int payPalReqCode = 7171;}
